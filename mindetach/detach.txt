@@ -1,0 +1,3 @@
+com.google.android.youtube
+com.google.android.apps.youtube.music
+com.adobe.lrmobile
